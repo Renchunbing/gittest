@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("GitHub change");
 
 		System.out.println("GitHub Remote change");
+		
+		System.out.println("GutHub Merge data");
 
 	}
 }
