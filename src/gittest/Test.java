@@ -12,6 +12,8 @@ public class Test {
 		System.out.println("GutHub Merge data");
 		
 		System.out.print("aaaaa");
+		System.out.print("aaaaa");
+		System.out.print("aaaaa");
 
 	}
 }
